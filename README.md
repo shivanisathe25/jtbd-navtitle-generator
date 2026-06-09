@@ -28,16 +28,15 @@ This skill automates the creation of concise, user-friendly navigation titles fr
 ## Usage
 
 The skill can process:
-- CSV files with JTBD structure (like the Builds example)
-- Pasted JTBD content
+- CSV files with headings as L1, L2, L3, L4 and H1/H2 
 - Individual job titles
 
 ### Input Format
-Provide JTBD structure with these columns:
-- L1 (Category)
-- L2 (Job title)
+Provide JTBD CSV file with these columns:
+- L1 (Job title)
+- L2 (Sub-job)
 - L3 (Sub-job)
-- L4 (Topic)
+- L4 (Sub-job)
 - H1/H2 (Headings)
 
 ### Output Format
