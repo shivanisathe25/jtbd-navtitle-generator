@@ -2,8 +2,6 @@
 
 A Claude Code skill for generating navigation titles following Red Hat JTBD consistency guidelines.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 This skill automates the creation of concise, user-friendly navigation titles from verbose JTBD (Jobs-to-be-Done) job titles, following Red Hat's documentation consistency guidelines.
