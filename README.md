@@ -67,26 +67,6 @@ For each job:
 
 ## Reference
 
-Based on Red Hat JTBD consistency guidelines and the OpenShift Builds JTBD example.
-
-## Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## Support
-
-- **Issues:** Report bugs or request features via [GitHub Issues](https://github.com/YOUR_USERNAME/jtbd-navtitle-generator/issues)
-- **Documentation:** [Red Hat JTBD Guidelines](https://docs.redhat.com) *(update with actual link)*
-- **Example:** See `Builds JTBD - Job Mapping for Category template - builds JTBD.csv`
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
+Based on Red Hat JTBD consistency guidelines.
 
 Based on Red Hat's JTBD consistency guidelines and OpenShift Builds documentation example.
